@@ -1,9 +1,11 @@
 import React from 'react';
-import Setup from './tutorial/4-forms/setup/2-multiple-inputs';
+// import Final from './tutorial/12-memo-useMemo-useCallback/final';
+import Setup from './tutorial/12-memo-useMemo-useCallback/setup';
 
 function App() {
   return (
-    <div className="container">
+    <div className='container'>
+      {/* <Final /> */}
       <Setup />
     </div>
   );
